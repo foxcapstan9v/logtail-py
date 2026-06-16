@@ -38,3 +38,4 @@
 - 2026-06-10 16:34 refactor: tidy rule matching (5222)
 - 2026-06-15 21:17 refactor: tidy rule matching (7459)
 - 2026-06-15 13:32 refactor: tidy rule matching (9610)
+- 2026-06-16 10:15 refactor: tidy rule matching (8988)
