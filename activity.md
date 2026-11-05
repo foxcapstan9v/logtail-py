@@ -170,3 +170,4 @@
 - 2026-11-04 19:55 refactor: tidy rule matching (6761)
 - 2026-11-04 21:45 refactor: tidy rule matching (1562)
 - 2026-11-05 11:22 refactor: tidy rule matching (8093)
+- 2026-11-05 17:52 refactor: tidy rule matching (5828)
